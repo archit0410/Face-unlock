@@ -51,8 +51,8 @@ data/
 ### How to Run
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repo_url>
-   cd <repo_directory>
+   git clone https://github.com/archit0410/Face-unlock.git
+   cd Face-unlock
    ```
 2. Install the dependencies:
    ```bash
