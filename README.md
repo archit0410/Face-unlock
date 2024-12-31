@@ -1,7 +1,3 @@
-Here’s a README file for your project:
-
----
-
 # Siamese Neural Networks for One-shot Image Recognition
 
 This repository contains an implementation of the paper **"[Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)"** by Koch, Zemel, and Salakhutdinov. The approach is designed to perform one-shot image recognition, enabling the system to recognize new classes with a single example.
