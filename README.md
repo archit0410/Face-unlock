@@ -70,10 +70,3 @@ After training, the model will output similarity scores for image pairs, which c
 
 ## References
 - Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov, "Siamese Neural Networks for One-shot Image Recognition," ICML Deep Learning Workshop, 2015. [Paper Link](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
-
-## License
-This project is for educational purposes. If you use this code, please cite the original paper.
-
----
-
-Let me know if you'd like to make any adjustments or add sections!
